@@ -1,0 +1,35 @@
+﻿<html>
+<head>
+<title>비인가/유해 프로그램 차단</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<meta name="viewport" content="initial-scale=1.0">
+<style>
+#content {
+   margin:1.5em;
+   padding:1.5em;
+}
+p{text-indent: 300px; }
+</style>
+</head>
+
+<body>
+<div id="content">
+<center>
+     <div id="test">
+         <img src="https://github.com/nds-security/ngfw-image/blob/main/ns/hazard_program_block.jpg?raw=true">
+     </div>
+</center>
+
+     <p><font face ="HY견고딕", size="4"> * 차단 프로그램 : <fname/> </font></p>
+
+<center>
+<p><font face ="HY견고딕", size="4"> ※ 문의 연락처 : 인프라운영팀 방정환(02-827-2398), 왕기호(02-827-2371),  임성민(02-827-2376), 이상영(02-827-2374) 보안관제센터(02-820-8282) </font></p>
+</center>
+</div>
+</body>
+
+
+</html>
+
+
